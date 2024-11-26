@@ -1,4 +1,5 @@
 let number = prompt("Podaj liczbe");
+
 for(let i = 1; i <= number; i ++)
 {
     let number2 = 1;

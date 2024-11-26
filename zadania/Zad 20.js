@@ -1,4 +1,5 @@
 let number = [];
+
 for(let i = 1; i <= 5; i++)
 {
     number[i] = prompt("Podaj liczbe");
@@ -7,5 +8,4 @@ for(let i = 1; i <= 5; i++)
         document.write(number[i]);
         document.write("<br>");
     }
-        
 }
